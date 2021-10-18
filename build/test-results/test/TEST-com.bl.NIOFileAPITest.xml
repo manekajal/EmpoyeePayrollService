@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bl.NIOFileAPITest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-18T12:01:49" hostname="KAJAL-PC" time="0.115">
+  <properties/>
+  <testcase name="givenPathWhenCheckedThenConfire()" classname="com.bl.NIOFileAPITest" time="0.115"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

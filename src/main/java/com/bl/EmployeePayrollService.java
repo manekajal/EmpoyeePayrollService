@@ -5,14 +5,17 @@ import java.util.List;
 import java.util.Scanner;
 
 public class EmployeePayrollService {
-    public enum IOService{console_IO,FILE_IO,DB_IO,REST_IO};
     private static List<EmployeePayrollData> employeePayrollList;
+
+    public enum IOService{console_IO,FILE_IO,DB_IO,REST_IO};
 
     public EmployeePayrollService() {
 
     }
 
-    public EmployeePayrollService(List<EmployeePayrollData> employeePayrollList){ }
+    public EmployeePayrollService(List<EmployeePayrollData> employeePayrollList){
+
+    }
 
     public static void main(String[] args){
         ArrayList<EmployeePayrollData> employeePayrollData=new ArrayList<>();
